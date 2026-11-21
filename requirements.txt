@@ -1,0 +1,36 @@
+# ==============================================================================
+# Dependencias del Proyecto: Clasificación Supervisada de Consultas Médicas
+# Repositorio: https://github.com/adrialexis124/aprendizajeNoSupervisado
+# ==============================================================================
+
+# Computación Numérica y Manipulación de Datos
+numpy>=1.26.0
+pandas>=2.0.0
+scipy>=1.13.0
+
+# Aprendizaje Automático y Modelado Estadístico
+scikit-learn>=1.4.0
+
+# Procesamiento de Lenguaje Natural (NLP) y Deep Learning
+torch>=2.2.0
+transformers>=4.40.0
+datasets>=2.18.0
+sentencepiece>=0.2.0
+
+# Optimización Bayesiana de Hiperparámetros
+optuna>=3.6.0
+
+# Visualización de Datos
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Extracción Web (Scraping) y Traducción
+playwright>=1.40.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+deep-translator>=1.11.0
+
+# Entorno Interactivo y Utilidades
+jupyter>=1.0.0
+ipykernel>=6.29.0
+tqdm>=4.66.0
